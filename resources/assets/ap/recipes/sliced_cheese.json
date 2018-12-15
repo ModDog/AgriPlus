@@ -1,0 +1,17 @@
+{ 
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ap:cutting_knife",
+      "data": 0
+    },
+    {
+      "item": "ap:cheese",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "ap:sliced_cheese",
+    "count": 5
+  }
+}

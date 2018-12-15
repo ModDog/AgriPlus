@@ -1,0 +1,21 @@
+{ 
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ap:sliced_bread",
+      "data": 0
+    },
+    {
+      "item": "ap:sliced_bread",
+      "data": 0
+    },
+    {
+      "item": "ap:sliced_meat_cooked",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "ap:meat_sandwich",
+    "data": 0
+  }
+}

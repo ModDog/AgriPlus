@@ -1,0 +1,26 @@
+{ 
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ap:mortar_pestle",
+      "data": 0
+    },
+    {
+      "item": "ap:flour",
+      "data": 0
+    },
+    
+    {
+      "item": "minecraft:sugar",
+      "data": 0
+    },
+    {
+      "item": "minecraft:egg",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "ap:dough",
+    "count": 5
+  }
+}

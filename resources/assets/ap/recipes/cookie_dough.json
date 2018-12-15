@@ -1,0 +1,25 @@
+{ 
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ap:mortar_pestle",
+      "data": 0
+    },
+    {
+      "item": "ap:dough",
+      "data": 0
+    },
+    {
+      "item": "minecraft:water_bucket",
+      "data": 0
+    },
+    {
+      "item": "minecraft:sugar",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "ap:cookie_dough",
+    "count": 3
+  }
+}

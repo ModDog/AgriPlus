@@ -1,0 +1,34 @@
+//Tools
+item.cutting_knife.name=Cutting Knife
+item.mortar_pestle.name=Mortar & Pestle
+item.roller.name=Roller
+
+//Seeds
+item.barley_seed.name=Barley Seed
+
+//Crops
+tile.barley_crop.name=Barley
+
+//Ingredients
+item.barley.name=Barley
+item.flour.name=Flour
+item.dough.name=Dough
+item.cookie_dough.name=Cookie Dough
+item.cc_cookie_dough.name=Chocolate Chip Cookie Dough
+item.sugar_cookie_dough.name=Sugar Cookie dough
+
+//Edible Ingredients
+item.sliced_bread.name=Sliced Bread
+item.sliced_meat_raw.name=Sliced Raw Meat
+item.sliced_meat_cooked.name=Sliced Cooked Meat
+item.cheese.name=Cheese
+item.sliced_cheese.name=Sliced Cheese
+
+//Food
+item.meat_sandwich.name=Meat Sandwich
+item.meat_cheese_sandwich.name=Meat & Cheese Sandwich
+item.chocolate_chip_cookie.name=Chocolate Chip Cookie
+item.sugar_cookie.name=Sugar Cookie
+
+//Creative Tabs
+itemGroup.agriplustab=Agri Plus

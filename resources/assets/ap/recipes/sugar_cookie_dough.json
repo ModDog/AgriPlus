@@ -1,0 +1,21 @@
+{ 
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ap:mortar_pestle",
+      "data": 0
+    },
+    {
+      "item": "ap:cookie_dough",
+      "data": 0
+    },
+    {
+      "item": "minecraft:sugar",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "ap:sugar_cookie_dough",
+    "count": 3
+  }
+}
