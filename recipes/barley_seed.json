@@ -1,0 +1,13 @@
+{ 
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ap:barley",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "ap:barley_seed",
+    "count": 2
+  }
+}

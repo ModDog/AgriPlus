@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "ap:blocks/tomato_stage3"
+    }
+}

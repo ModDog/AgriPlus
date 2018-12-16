@@ -1,0 +1,17 @@
+{ 
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ap:cutting_knife",
+      "data": 0
+    },
+    {
+      "item": "minecraft:beef",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "ap:sliced_meat_raw",
+    "count": 5
+  }
+}

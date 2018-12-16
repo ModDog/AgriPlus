@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "age=0": { "model": "ap:tomato_stage0" },
+        "age=1": { "model": "ap:tomato_stage1" },
+        "age=2": { "model": "ap:tomato_stage2" },
+        "age=3": { "model": "ap:tomato_stage3" },
+        "age=4": { "model": "ap:tomato_stage4" },
+        "age=5": { "model": "ap:tomato_stage5" },
+        "age=6": { "model": "ap:tomato_stage6" },
+        "age=7": { "model": "ap:tomato_stage7" }
+    }
+}
